@@ -1,0 +1,12 @@
+# TLF Academy - 臨床試験TLFプロ育成プラットフォーム
+
+> TLFアカデミー - 臨床試験のTables, Listings, Figuresを基礎からプロレベルまで体系的に学べる日本語学習プラットフォーム。SAS/Rプログラミング、品質管理、規制要件まで網羅。
+
+## Main Pages
+
+- [tlf academy](https://musclelove-777.github.io/tlf-academy/): main page of TLF Academy - 臨床試験TLFプロ育成プラットフォーム.
+
+## About this file
+
+This llms.txt follows the llmstxt.org proposal and lists the main entry points of this site for LLM-based crawlers and AI search agents.
+Generated automatically from sitemap.xml. Source repository: https://github.com/MuscleLove-777/tlf-academy
